@@ -25,7 +25,7 @@ sap.ui.define([
         var MessageType = library.MessageType;
 
         return Controller.extend("logaligroup.Front.controller.App", {
-            onInit: function () {
+            onInit: function () { 
 
                 const oModel = new JSONModel();
                 oModel.loadData("./localService/mockdata/CustomerModel.json");

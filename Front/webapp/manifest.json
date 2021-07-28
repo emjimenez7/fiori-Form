@@ -15,8 +15,8 @@
 			"id": "html5moduletemplates.basicSAPUI5ApplicationProjectModule",
 			"version": "1.40.12"
 		}
-	},
-	
+    },
+    	
 	"sap.ui": {
 		"technology": "UI5",
 		"icons": {
